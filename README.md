@@ -2,14 +2,6 @@
 # Kartpool
 > Community driven delivery platform for the ones who need it the most
 
-### This repository contains the project files for the blog post:
-[Thinking of building a contact-tracing application? Here's what you can do instead.](https://www.ashwinhariharan.tech/blog/thinking-of-building-a-contact-tracing-application-heres-what-you-can-do-instead/)
-
-Fork this repository, read the blog post and follow the tutorial to build the app!
-
-### App Screenshot
-![](https://miro.medium.com/max/1835/1*ROFwy3bSYmWy39qLmlTZTw.png)
-
 ## Instructions to install
 
 1. **Install PostgreSQL and PostGIS**
@@ -53,13 +45,3 @@ I highly recommend a Docker installation:
 
 Once you connect to the database, enable the PostGIS extension by typing `enable extension postgis`
 
-# Credits
-
-I've had much help from this [excellent tutorial](https://realpython.com/location-based-app-with-geodjango-tutorial/)
-
-# Have any questions?
-
-Say _hi_ 👋 on:
-
-- [Github Discussions](https://github.com/booleanhunter-tech-blog/kartpool-wip/discussions)
-- [Blog Forum](https://forum.booleanhunter.com/t/thinking-of-building-a-contact-tracing-application-here-s-what-you-can-do-instead/38)
