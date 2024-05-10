@@ -1,5 +1,4 @@
-![](https://www.ashwinhariharan.tech/blog/thinking-of-building-a-contact-tracing-application-heres-what-you-can-do-instead/index.png)
-# Kartpool
+# Localpool
 > Community driven delivery platform for the ones who need it the most
 
 ## Instructions to install
