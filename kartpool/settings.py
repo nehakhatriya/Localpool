@@ -133,6 +133,9 @@ USE_L10N = True
 
 USE_TZ = True
 
+GDAL_LIBRARY_PATH = "C:\\OSGeo4W\\bin\\gdal308.dll"
+GEOS_LIBRARY_PATH = "C:\\OSGeo4W\\bin\\geos_c.dll"
+
 
 # Static files (CSS, JavaScript, Images)
 # https://docs.djangoproject.com/en/3.0/howto/static-files/
