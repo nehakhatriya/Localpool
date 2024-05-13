@@ -4,7 +4,7 @@
 ## Instructions to install
 
 1. **Install PostgreSQL and PostGIS**
-perform an installation directly on the host operating system:
+perform an installation :
     - [Download](https://www.postgresql.org/download/) the official PostgreSQL installer for your system.
     - [Install](https://postgis.net/install/) the PostGIS extension
 
@@ -13,7 +13,7 @@ perform an installation directly on the host operating system:
     `pip install -r requirements.text`
 
 ## Instructions to run
-1. **Start Django web server (Make sure the virtual environment is activated)**
+1. **Start Django web server**
     `python manage.py runserver`
 
 ## To write psql queries
